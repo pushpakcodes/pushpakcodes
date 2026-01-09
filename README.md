@@ -1,112 +1,110 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Pushpak%20Jadhav&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<h1 align="center">Hi 👋, I'm Pushpak Jadhav</h1>
+<h3 align="center">Software Developer | MERN • AI Systems • DSA • System Design</h3>
+
+<br>
+
+<p align="right">
+  <h3>Profile Views :-</h3>
+  <img src="https://komarev.com/ghpvc/?username=pushpakcodes&label=Profile%20views&color=0e75b6&style=flat"
+       alt="pushpakcodes" />
 </p>
 
-<h3 align="center">
-🚀 Software Developer | MERN • AI Systems • System Design • DSA
-</h3>
+<br>
 
-<p align="center">
-  <a href="https://pushpak-portfolio-dev.vercel.app">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="mailto:pushpakzworkspace@gmail.com">Email</a>
+<p>
+  <img align="right" width="400"
+       src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+       alt="coding" />
 </p>
 
----
-
-## 🧠 About Me
-
-- 🎓 **B.E. Electronics & Telecommunication** (2026)
+- 🎓 B.E. Electronics & Telecommunication (2026)
 - 💻 Software Developer Intern @ **Namrata Group**
-- ⚙️ I build **production-grade full-stack & AI-driven systems**
-- 🧩 Strong in **DSA, system thinking & backend architecture**
-- 🚀 Passionate about **AI tooling, automation & scalable products**
+- 🚀 Building **production-grade MERN & AI-driven systems**
+- 🧠 Strong in **DSA, backend architecture & system thinking**
+- 🌱 Currently deep-diving into **AI tooling & scalable backend systems**
+- 📫 Reach me at **pushpakzworkspace@gmail.com**
+- ⚡ Fun fact: I enjoy solving hard problems more than writing boilerplate code 😄
 
----
+<br>
 
-## 🛠️ Tech Stack
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         height="30" width="40" />
+  </a>
+  <a href="https://github.com/pushpakcodes" target="_blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+         height="30" width="40" />
+  </a>
+  <a href="mailto:pushpakzworkspace@gmail.com">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+         height="30" width="40" />
+  </a>
+</p>
 
-### 👨‍💻 Programming
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+<br>
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
 
-### 🔧 Backend & Systems
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 
-### 🗄️ Databases & Infra
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
 
-### ⚙️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
 
----
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40"/>
 
-## 🚀 Featured Work
+</p>
 
-### 🔹 SheetPilot – Cursor for Excel
-**MERN • LangChain • ExcelJS • LLM Orchestration**
-- Natural-language → Excel operations
-- AI-driven formula, pivot & sheet automation
-- Secure auth, scalable backend & AI-first UX
+<br>
 
----
+<h3>📊 Statistical Data :-</h3>
 
-### 🔹 Real-Time Banking & Investment Simulator
-**MERN • Finance APIs • Data Visualization**
-- Full financial simulation engine
-- Live & historical market data pipelines
-- Net-worth projection using compounding models
+<p>
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=pushpakcodes&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+       alt="pushpakcodes" />
+</p>
 
----
+<br>
 
-### 🔹 AI-Enabled IoT Mocktail Maker
-**ESP32 • Automation • Web Control**
-- Smart liquid mixing system
-- Government-funded innovation nominee
-- Hardware + software system integration
+<p>
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=pushpakcodes&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"
+       alt="pushpakcodes" />
+</p>
 
-📌 *Check pinned repositories below for code & demos.*
+<br>
 
----
+<p>
+  <img align="center"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=pushpakcodes&theme=dark&background=0d1117"
+       alt="pushpakcodes" />
+</p>
 
-## 🏆 Competitive Programming
+<br>
+
+<h3>🏆 Competitive Programming</h3>
 
 - 🟣 **LeetCode Knight** — Rating **1867**
 - 🥉 **CodeChef 3-Star**
-- 🥇 Rank 1 in Rookie League (first contest)
 - 🌍 Global contest rank **1122 / 30,000+**
+- 🥇 Rank 1 in Rookie League (first contest)
 
----
+<br>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pushpakcodes&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushpakcodes&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpakcodes&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🤝 Let’s Build
-
-💬 Interested in **internships, SDE roles, AI tooling, backend systems, or startups**  
-📩 Reach me at **pushpakzworkspace@gmail.com**
-
-⭐ *If you find my work useful, consider starring the repositories*
+⭐ *Check pinned repositories below for my best work*
