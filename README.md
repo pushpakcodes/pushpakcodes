@@ -12,7 +12,7 @@
         BUILDING SYSTEMS , ARCHITECTURING BACKENDS , CREATING ARTISTIC FRONTENDS !
         </p>
         <p>
-          <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
+          <a href="https://www.linkedin.com/in/pushpak-jadhav/">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
           </a>
           <a href="https://pushpak-portfolio-dev.vercel.app">
@@ -21,6 +21,9 @@
           <a href="mailto:pushpakzworkspace@gmail.com">
             <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
           </a>
+       <a href="https://drive.google.com/drive/u/0/folders/1LRGEQbjePtCxX3rCUKBCB1ejmyB1eOul" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+</a>
         </p>
       </td>
       <td width="40%" align="right">
@@ -76,10 +79,6 @@ A full-stack financial engine simulating real-world net worth projection.
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pushpakcodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpakcodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages" />
-</div>
 
 <div align="center">
     <br>
