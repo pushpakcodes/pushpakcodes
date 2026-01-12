@@ -30,26 +30,25 @@
   </table>
 </div>
 
+---
 
 <div align="center">
-  <h2>Technical Skills</h2>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="200px" />
+  <h2 style="font-family: 'Times New Roman', Times, serif; font-size: 32px; font-weight: bold; letter-spacing: 1px;">Technical Skills</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="200px">
   <br/><br/>
 
-  <img
-    src="https://raw.githubusercontent.com/pushpakcodes/pushpakcodes/main/tech-stack.svg"
-    width="100%"
-    alt="Tech Stack Animation"
-  />
+  <marquee direction="right" scrollamount="6">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nextjs,tailwindcss,git,github,vscode&theme=dark" alt="frontend-tools" />
+  </marquee>
 
-  <br/><br/>
-
-  <a href="#-comprehensive-skill-set">
-    <img src="https://img.shields.io/badge/CLICK%20TO-SEE%20SKILLS-black?style=for-the-badge&labelColor=111111"/>
-  </a>
+  <div style="margin-top: 10px;">
+    <marquee direction="right" scrollamount="5">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,mongodb,redis,docker,kubernetes,aws,terraform,prometheus,grafana&theme=dark" alt="backend-devops" />
+    </marquee>
+  </div>
 </div>
 
-
+---
 ## 💻 Engineering Depth (Selected Projects)
 
 ### 📊 [Sheet Pilot - AI Excel Orchestrator](https://github.com/pushpakcodes)
