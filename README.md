@@ -9,7 +9,7 @@
         <p>
         YOUR PROJECTS ARE NOT PROJECT ENOUGH , IF THEY ARE NOT PRODUCT ENOUGH ! 
           <BR/>
-        BUILDING SYSTEMS , ARCHITECTURING BACKENDS , SHOWING ART VIA FRONTEND !
+        BUILDING SYSTEMS , ARCHITECTURING BACKENDS , CREATING ARTISTIC FRONTENDS !
         </p>
         <p>
           <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
@@ -33,72 +33,36 @@
 ---
 
 <div align="center">
-  <h2 style="font-family: 'Times New Roman', Times, serif; font-size: 32px; font-weight: bold; letter-spacing: 1px;">
-    Technical Skills
-  </h2>
-
+  <h2 style="font-family: 'Times New Roman', Times, serif; font-size: 32px; font-weight: bold; letter-spacing: 1px;">Technical Skills</h2>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="200px">
   <br/><br/>
-
   <table width="100%" border="0">
     <tr>
-      <td width="80%">
-        <marquee direction="right" scrollamount="6">
-            <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="50" alt="C++" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <img src="https://skillicons.dev/icons?i=python&theme=dark" height="50" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <img src="https://skillicons.dev/icons?i=js&theme=dark" height="50" alt="JS" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="50" alt="SQL" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <img src="https://skillicons.dev/icons?i=html&theme=dark" height="50" alt="HTML" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <img src="https://skillicons.dev/icons?i=css&theme=dark" height="50" alt="CSS" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <img src="https://skillicons.dev/icons?i=react&theme=dark" height="50" alt="React" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="50" alt="Node" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <img src="https://skillicons.dev/icons?i=express&theme=dark" height="50" alt="Express" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="50" alt="Next" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="50" alt="Mongo" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="50" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="50" alt="AWS" />
+      <td width="85%">
+        <marquee direction="right" scrollamount="5">
+          <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="50" alt="cpp" /> &nbsp;&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=python&theme=dark" height="50" alt="python" /> &nbsp;&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=js&theme=dark" height="50" alt="js" /> &nbsp;&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="50" alt="mysql" /> &nbsp;&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=html&theme=dark" height="50" alt="html" /> &nbsp;&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=css&theme=dark" height="50" alt="css" /> &nbsp;&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=react&theme=dark" height="50" alt="react" /> &nbsp;&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="50" alt="nodejs" /> &nbsp;&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=express&theme=dark" height="50" alt="express" /> &nbsp;&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="50" alt="nextjs" /> &nbsp;&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="50" alt="mongodb" /> &nbsp;&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="50" alt="docker" /> &nbsp;&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="50" alt="aws" />
         </marquee>
       </td>
-      <td width="20%" align="center">
-        <a href="#-comprehensive-skill-set">
-          <img src="https://img.shields.io/badge/CLICK%20TO-SEE%20SKILLS-black?style=for-the-badge&labelColor=444444" alt="See Skills"/>
-        </a>
+      <td width="15%" align="center">
+        <a href="#-comprehensive-skill-set"><img src="https://img.shields.io/badge/CLICK%20TO-SEE%20SKILLS-black?style=for-the-badge&labelColor=111111" alt="See Skills"/></a>
       </td>
     </tr>
   </table>
 </div>
 
 ---
-
-## 🏆 Competitive Programming & Strength
-
-I don't just write code; I optimize it.
-
-<div align="center">
-  <table width="100%">
-      <tr>
-          <td width="50%">
-            <h3>🚀 LeetCode Knight</h3>
-            <ul>
-                <li><b>Rating:</b> 1,867 (Top Tier)</li>
-                <li><b>Global Rank:</b> Top 4% (1122/30,000 in Contest)</li>
-                <li><b>Focus:</b> DSA, Dynamic Programming, Graph Theory</li>
-            </ul>
-          </td>
-          <td width="50%">
-            <h3>⭐ CodeChef 3-Star</h3>
-            <ul>
-                <li><b>Best Rank:</b> 253 (Div 3)</li>
-                <li><b>Achievement:</b> Rank 1 in Rookie League (Debut)</li>
-                <li><b>Focus:</b> Mathematical Optimization & Logic</li>
-            </ul>
-          </td>
-      </tr>
-  </table>
-</div>
-
----
-
 ## 💻 Engineering Depth (Selected Projects)
 
 ### 📊 [Sheet Pilot - AI Excel Orchestrator](https://github.com/pushpakcodes)
@@ -117,7 +81,7 @@ A full-stack financial engine simulating real-world net worth projection.
 * **Optimization:** Handled external API rate limits via backend caching and data normalization algorithms.
 * **Data Vis:** Integrated Recharts for live rendering of financial streams.
 
-### 🏢 [Enterprise HRIS (Namrata Groups)](https://github.com/pushpakcodes)
+### 🏢 [HRIS & OFFICE MANAGEMENT SYSTEM (Namrata Groups)](https://github.com/pushpakcodes)
 > **Stack:** MERN, ExcelJS, Automated Email System
 
 * **Impact:** Reduced payroll processing time by **85%** (from 3 days to 30 mins).
@@ -127,19 +91,17 @@ A full-stack financial engine simulating real-world net worth projection.
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pushpakcodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpakcodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=pushpakcodes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpakcodes&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="180"
+    alt="Top Languages"
+  />
 </div>
-
-<h3 id="-comprehensive-skill-set">📜 Comprehensive Skill Set</h3>
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | C++, Python, JavaScript, SQL, HTML, CSS |
-| **Frameworks** | React.js, Node.js, Express.js, Next.js, FastAPI |
-| **System/Backend** | Mongoose, Redis, WebSockets, REST APIs, JWT |
-| **DevOps & Cloud** | Docker, Kubernetes, Terraform, AWS, Prometheus, Grafana |
-| **CS Fundamentals** | OOP, DBMS, DSA, System Design, Computer Networks |
 
 <div align="center">
     <br>
