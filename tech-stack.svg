@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="140" viewBox="0 0 2000 140">
+  <g>
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      from="0 0"
+      to="-1200 0"
+      dur="18s"
+      repeatCount="indefinite" />
+
+    <!-- Logos -->
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" x="0" y="30" height="80"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" x="120" y="30" height="80"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" x="240" y="30" height="80"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" x="360" y="30" height="80"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" x="480" y="30" height="80"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" x="600" y="30" height="80"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" x="720" y="30" height="80"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" x="840" y="30" height="80"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" x="960" y="30" height="80"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" x="1080" y="30" height="80"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" x="1200" y="30" height="80"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" x="1320" y="30" height="80"/>
+
+    <!-- Duplicate for seamless loop -->
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" x="1440" y="30" height="80"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" x="1560" y="30" height="80"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" x="1680" y="30" height="80"/>
+  </g>
+</svg>
