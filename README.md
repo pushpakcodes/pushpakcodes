@@ -36,23 +36,12 @@
   <h2 style="font-family: 'Times New Roman', Times, serif; font-size: 32px; font-weight: bold; letter-spacing: 1px;">Technical Skills</h2>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="200px">
   <br/><br/>
-  <table width="100%" border="0">
+  
+  <table width="100%" style="table-layout: fixed;">
     <tr>
-      <td width="85%">
+      <td width="85%" style="white-space:nowrap; overflow:hidden;">
         <marquee direction="right" scrollamount="5">
-          <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="50" alt="cpp" /> &nbsp;&nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=python&theme=dark" height="50" alt="python" /> &nbsp;&nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=js&theme=dark" height="50" alt="js" /> &nbsp;&nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="50" alt="mysql" /> &nbsp;&nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=html&theme=dark" height="50" alt="html" /> &nbsp;&nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=css&theme=dark" height="50" alt="css" /> &nbsp;&nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=react&theme=dark" height="50" alt="react" /> &nbsp;&nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="50" alt="nodejs" /> &nbsp;&nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=express&theme=dark" height="50" alt="express" /> &nbsp;&nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="50" alt="nextjs" /> &nbsp;&nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="50" alt="mongodb" /> &nbsp;&nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="50" alt="docker" /> &nbsp;&nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="50" alt="aws" />
+            <img src="https://skillicons.dev/icons?i=cpp,python,js,mysql,html,css,react,nodejs,express,nextjs,mongodb,docker,aws,cpp,python,js,mysql,html,css,react,nodejs,express,nextjs,mongodb,docker,aws&perline=30&theme=dark" alt="skills" />
         </marquee>
       </td>
       <td width="15%" align="center">
@@ -91,16 +80,8 @@ A full-stack financial engine simulating real-world net worth projection.
 ---
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=pushpakcodes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpakcodes&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="180"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=pushpakcodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpakcodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages" />
 </div>
 
 <div align="center">
