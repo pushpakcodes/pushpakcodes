@@ -70,7 +70,7 @@ A full-stack financial engine simulating real-world net worth projection.
 * **Optimization:** Handled external API rate limits via backend caching and data normalization algorithms.
 * **Data Vis:** Integrated Recharts for live rendering of financial streams.
 
-### 🏢 [HRIS & OFFICE MANAGEMENT SYSTEM (Namrata Groups)]
+### 🏢 [HRIS & OFFICE MANAGEMENT SYSTEM (Namrata Groups)](https://github.com/pushpakcodes)
 > **Stack:** MERN, ExcelJS, Automated Email System
 
 * **Impact:** Reduced payroll processing time by **85%** (from 3 days to 30 mins).
