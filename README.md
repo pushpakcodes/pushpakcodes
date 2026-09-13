@@ -54,7 +54,7 @@
 ---
 ## 💻 Engineering Depth (Selected Projects)
 
-### 📊 [Sheet Pilot - AI Excel Orchestrator](https://github.com/pushpakcodes)
+### 📊 [Sheet Pilot - AI Excel Orchestrator](https://github.com/pushpakcodes/Sheetpilot)
 > **Stack:** MERN, LangChain, ExcelJS, OpenAI, JWT, Framer Motion
 
 A sophisticated tool replacing complex Excel formulas with Natural Language.
@@ -62,7 +62,7 @@ A sophisticated tool replacing complex Excel formulas with Natural Language.
 * **Security:** Implemented JWT authentication and secure REST API endpoints to handle sensitive spreadsheet data.
 * **UX:** Built an AI-first interface using React and Framer Motion for fluid interaction.
 
-### 🏦 [Real-Time Banking & Investment Simulator](https://github.com/pushpakcodes)
+### 🏦 [Real-Time Banking & Investment Simulator](https://github.com/pushpakcodes/Real_Time_Banking_and_Investment_Simulator)
 > **Stack:** React, Node.js, MongoDB, Finnhub API, Twelve Data
 
 A full-stack financial engine simulating real-world net worth projection.
@@ -70,7 +70,7 @@ A full-stack financial engine simulating real-world net worth projection.
 * **Optimization:** Handled external API rate limits via backend caching and data normalization algorithms.
 * **Data Vis:** Integrated Recharts for live rendering of financial streams.
 
-### 🏢 [HRIS & OFFICE MANAGEMENT SYSTEM (Namrata Groups)](https://github.com/pushpakcodes)
+### 🏢 [HRIS & OFFICE MANAGEMENT SYSTEM (Namrata Groups)]
 > **Stack:** MERN, ExcelJS, Automated Email System
 
 * **Impact:** Reduced payroll processing time by **85%** (from 3 days to 30 mins).
